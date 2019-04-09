@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Add to Docs](add-to-docs.md)
+* [Documentation To-Do](add-to-docs.md)
 
 ## CruTech Survey
 
