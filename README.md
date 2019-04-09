@@ -1,5 +1,4 @@
 # Welcome
 
-Welcome the the big maze that is, the CruTech Docs.  
-Stuff will be added here progressively, so stay tuned, I guess.
+Welcome to this of which is the maze, the labyrinth, the entanglement, the hodgepodge, the massive jungle and the ultimate and utter intricacy of that, of which is, the CrüTech documentation.
 
