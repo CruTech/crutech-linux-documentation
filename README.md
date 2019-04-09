@@ -1,1 +1,2 @@
-# crutech-documentation
+# Initial page
+
