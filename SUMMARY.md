@@ -11,7 +11,7 @@
 
 ## Server
 
-* [Server Roles](server/server-roles/README.md)
-  * [Untitled](server/server-roles/untitled.md)
-* [Untitled](server/untitled.md)
+## Scripts
+
+* [Introduction](scripts/introduction.md)
 
