@@ -9,3 +9,9 @@
 * [Installation](crutech-survey/installation.md)
 * [MYSQL Server & Workbench Installation](crutech-survey/mysql-server-and-workbench-installation.md)
 
+## Server
+
+* [Server Roles](server/server-roles/README.md)
+  * [Untitled](server/server-roles/untitled.md)
+* [Untitled](server/untitled.md)
+
