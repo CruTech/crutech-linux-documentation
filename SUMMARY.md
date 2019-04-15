@@ -12,6 +12,10 @@
 
 ## Server
 
+* [Introduction](server/introduction.md)
+* [LTSP Setup](server/ltsp-setup.md)
+* [LTSP Configuration](server/ltsp-configuration.md)
+
 ## Scripts
 
 * [Introduction](scripts/introduction.md)
