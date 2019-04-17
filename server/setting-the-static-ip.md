@@ -42,13 +42,13 @@ Remember: en01 is my network adaptor, you would enter your own where mine would 
                     addresses: [192.168.0.1]
 ```
 
-When we have finished editing the Network Manager file, we can exit by using CTRL + X. Next, we have to tell netstat these new settings that it should have, to do so in your terminal window type:
+When we have finished editing the Network Manager file, we can save the document and exit. Next, we have to tell netstat these new settings that it should have, to do so in your terminal window type:
 
 ```text
 sudo netplan apply
 ```
 
-It has now applied our new static address settings..YAY! We can go and check that our settings have actually worked by going to the top right corner and looking for the icon that looks like something to do with networking.
+It should have now applied our new static address settings. We can go and check that our settings have actually worked by going to the top right corner and looking for the icon that looks like something to do with networking.
 
 ![](../.gitbook/assets/screenshot-from-2019-04-18-00-33-12.png)
 
@@ -57,7 +57,8 @@ Then select Wired, then select Wired Settings. In the Network Settings window se
 
 ![](../.gitbook/assets/screenshot-from-2019-04-18-00-35-13.png)
 
-Now, as you should see under the Details tab we can see our IPv4 Address, Default Route and our DNS is what we've set it to.
+Now, as you should see under the Details tab we can see our IPv4 Address, Default Route and our DNS is what we've set it to.  
+You'll want to make sure that you untick the box "Make available to other users", otherwise it won't be fun when we get to deploying the image.
 
 ![](../.gitbook/assets/screenshot-from-2019-04-18-00-35-21.png)
 
