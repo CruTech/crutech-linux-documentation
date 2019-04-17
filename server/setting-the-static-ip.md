@@ -26,6 +26,10 @@ sudo nano 01-networkmanager-all.yaml
 
 Next we need to copy and add the contents of this file to the YAML file:
 
+{% hint style="info" %}
+Remember: en01 is my network adaptor, you would enter your own where mine would be.
+{% endhint %}
+
 ```text
     network:
         version: 2
