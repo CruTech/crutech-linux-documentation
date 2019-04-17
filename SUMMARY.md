@@ -1,17 +1,17 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Documentation To-Do](add-to-docs.md)
 
 ## CruTech Survey
 
 * [Introduction](crutech-survey/introduction.md)
 * [Installation](crutech-survey/installation.md)
-* [Development Checklist](crutech-survey/development-checklist.md)
 
 ## Server
 
 * [Introduction](server/introduction.md)
+* [Installing Ubuntu](server/installing-ubuntu.md)
+* [Setting the Static IP](server/setting-the-static-ip.md)
 * [LTSP Setup](server/ltsp-setup.md)
 * [LTSP Configuration](server/ltsp-configuration.md)
 

@@ -1,6 +1,6 @@
 # Introduction
 
-The CruTech Survey server has been though a redevelopment. Version 1 of the server was written in Perl but didn't really look pretty. Survey version 2 of the server has been rewritten and development began on the 27th of March 2019.  
+The CruTech Survey server has been though a redevelopment. Version 1 of the server was written in Perl. Survey version 2 of the server has been rewritten and development began on the 27th of March 2019.  
 Version 2 will have the same things like questions and such but other things which can be found in the Development checklist [here](https://crutechdocs.benrobson.tk/crutech-survey/development-checklist).
 
 {% hint style="info" %}
