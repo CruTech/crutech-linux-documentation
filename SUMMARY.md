@@ -12,8 +12,6 @@
 * [Introduction](server/introduction.md)
 * [Installing Ubuntu](server/installing-ubuntu.md)
 * [Setting the Static IP](server/setting-the-static-ip.md)
-* [LTSP Setup](server/ltsp-setup.md)
-* [LTSP Configuration](server/ltsp-configuration.md)
 
 ## Scripts
 
