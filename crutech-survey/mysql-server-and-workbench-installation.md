@@ -1,2 +1,0 @@
-# MYSQL Server & Workbench Installation
-

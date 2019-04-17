@@ -10,5 +10,4 @@ description: >-
 
 * [ ] Finish Introduction.
 * [ ] Finish Installation.
-* [ ] Finish MySQL Server & Workbench Installation.
 
