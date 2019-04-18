@@ -12,7 +12,8 @@
 * [Introduction](server/introduction.md)
 * [Installing Ubuntu](server/installing-ubuntu.md)
 * [Setting the Static IP](server/setting-the-static-ip.md)
-* [LTSP Environment](server/ltsp-environment.md)
+* [Setting up DHCP](server/setting-up-dhcp.md)
+* [Setting up a LTSP Environment](server/ltsp-environment.md)
 * [LTSP Chroot Environment](server/ltsp-chroot-environment.md)
 
 ## Scripts
