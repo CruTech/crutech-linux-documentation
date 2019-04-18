@@ -1,0 +1,2 @@
+# LTSP Chroot Environment
+
