@@ -12,9 +12,12 @@
 * [Introduction](server/introduction.md)
 * [Installing Ubuntu](server/installing-ubuntu.md)
 * [Setting the Static IP](server/setting-the-static-ip.md)
-* [Helpful Command Line Tips](server/helpful-command-line-tips.md)
 
 ## Scripts
 
 * [Introduction](scripts/introduction.md)
+
+## Resources
+
+* [Command Line Tips](resources/helpful-command-line-tips.md)
 

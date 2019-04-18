@@ -1,4 +1,4 @@
-# Helpful Command Line Tips
+# Command Line Tips
 
 ## Tab completion
 
