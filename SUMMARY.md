@@ -23,4 +23,5 @@
 ## Resources
 
 * [Command Line Tips](resources/helpful-command-line-tips.md)
+* [Useful Linux Commands](resources/useful-linux-commands.md)
 
