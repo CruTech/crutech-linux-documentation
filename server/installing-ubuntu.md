@@ -6,7 +6,7 @@ If you haven't downloaded and installed PowerISO already, now would be a great t
 
 {% hint style="info" %}
 Make sure you have a USB handy \(with a minimum size of 8GB\) handy.  
-Make sure it doesn't have anything precious on it, because all of the USBs contents is going to get wiped.
+Make sure it doesn't have anything precious on it, because all of the USB's contents is going to get wiped.
 {% endhint %}
 
 Open PowerISO, navigate to the Ubuntu ISO image and open it.
