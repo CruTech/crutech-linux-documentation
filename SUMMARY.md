@@ -19,6 +19,7 @@
 ## Scripts
 
 * [Introduction](scripts/introduction.md)
+* [Scripts](scripts/scripts.md)
 
 ## Resources
 
