@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="user-namer.pl" %}
+## user-namer.pl
+
 {% hint style="info" %}
 **Usage:** bin/user-namer.pl --user-list &lt;specify file path&gt;  --out &lt;specify file path&gt;
 {% endhint %}
@@ -22,10 +24,27 @@ With all of the words in the word list, these words will be combined by randomly
 
 _--out_  
 The out flag is the file of which to write all of the generated usernames and passwords to.
+
+{% hint style="info" %}
+This file is compatible as input for the adduser command.
+{% endhint %}
+
+{% hint style="info" %}
+Usernames must be unique although currently no checks are carried out by this generator.
+{% endhint %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="newusers-fix.pl" %}
+## **newusers-fix.pl**
 
+{% hint style="info" %}
+**Usage:** bin/newusers-fix.pl --user-file &lt;specify file ****path&gt;
+{% endhint %}
+
+The new users fix script fixes the newusers bulk add issue. This script requires the name of the file produced by user-namer.pl.
+
+_--user-file_  
+A newusers compatible file.
 {% endtab %}
 {% endtabs %}
 
