@@ -2,6 +2,11 @@
 
 * [Welcome](README.md)
 
+## Scripts
+
+* [Introduction](scripts/introduction.md)
+* [Script Explanation Breakdown](scripts/scripts-breakdown.md)
+
 ## CruTech Survey
 
 * [Introduction](crutech-survey/introduction.md)
@@ -15,11 +20,6 @@
 * [Setting up DHCP](server/setting-up-dhcp.md)
 * [Setting up a LTSP Environment](server/ltsp-environment.md)
 * [LTSP Chroot Environment](server/ltsp-chroot-environment.md)
-
-## Scripts
-
-* [Introduction](scripts/introduction.md)
-* [Script Explanation Breakdown](scripts/scripts.md)
 
 ## Resources
 
