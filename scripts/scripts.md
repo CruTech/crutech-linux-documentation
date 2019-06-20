@@ -1,11 +1,11 @@
-# Scripts
+# Script Explanation Breakdown
 
 {% tabs %}
 {% tab title="user-namer.pl" %}
 ## user-namer.pl
 
 {% hint style="info" %}
-**Usage:** `bin/user-namer.pl --user-list <specify file path>  --out <specify file path>`
+**Usage:** `bin/user-namer.pl --user-list <specify file path> --out <specify file path>`
 {% endhint %}
 
 ### _--user-list_
@@ -65,7 +65,7 @@ The purpose of this script is to setup the user's home directory. The template d
 ## **add-template-to-homes.pl**
 
 {% hint style="info" %}
-**Usage:** `bin/add-template-to-homes.pl  --template <specify directory path> --out <specify directory path>`
+**Usage:** `bin/add-template-to-homes.pl --template <specify directory path> --out <specify directory path>`
 {% endhint %}
 
 A script for adding a template file to user homes for a camp. Use this script to add elective files to the desktop of each campers directory.
